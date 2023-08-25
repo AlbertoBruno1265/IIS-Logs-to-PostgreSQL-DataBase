@@ -6,6 +6,10 @@
  ## Requeriments
  - Python 3.6 or >
  - psycopg2 2.9.7
+
+## Log Format
+
+![Log_format.png](https://github.com/AlbertoBruno1265/IIS-Logs-to-PostgreSQL-DataBase/blob/main/imgs/Log_format.png)
  
 ## Settings
 To configure the program, access "[Config.py](https://github.com/AlbertoBruno1265/IIS-Logs-to-PostgreSQL-DataBase/blob/main/pyFiles/Config.py)", then put the parameters inside the " "
