@@ -24,7 +24,7 @@ To configure the program, access [Config.py](https://github.com/AlbertoBruno1265
 | host     | Database ip address
 | port     | Ip address port
 | table    | Name of tabel
-| pathLog  | Path to .log files
+| pathLog  | Path(relative) to .log files
 
 ## My LinkedIn
 Click [here](https://www.linkedin.com/in/alberto-bruno-silvestre-de-oliveira-b7a010259/) to acesse my LinkedIn
