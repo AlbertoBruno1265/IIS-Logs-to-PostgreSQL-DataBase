@@ -12,7 +12,7 @@
 ![Log_format.png](https://github.com/AlbertoBruno1265/IIS-Logs-to-PostgreSQL-DataBase/blob/main/imgs/Log_format.png)
  
 ## Settings
-To configure the program, access "[Config.py](https://github.com/AlbertoBruno1265/IIS-Logs-to-PostgreSQL-DataBase/blob/main/pyFiles/Config.py)", then put the parameters inside the " "
+To configure the program, access [Config.py](https://github.com/AlbertoBruno1265/IIS-Logs-to-PostgreSQL-DataBase/blob/main/pyFiles/Config.py), then put the parameters inside the " "
 
 ![Settings](https://github.com/AlbertoBruno1265/IIS-Logs-to-PostgreSQL-DataBase/blob/main/imgs/Settings.png)
 
