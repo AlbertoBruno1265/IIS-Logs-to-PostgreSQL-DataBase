@@ -26,16 +26,16 @@ conn = psycopg2.connect(
 # Enabling automatic commits
 conn.autocommit = True
 
-# cursor creation
+# Cursor creation
 cursor = conn.cursor()
 
-# file scan
+# File scan
 for r, s, f in os.walk(Config.pathLog):
     for i in range(len(f)):
         print(f[i])
         # Leitura de arquivos
         with open(f"{r}/{f[i]}", "r", encoding="UTF-8") as txt:
-            # file reading
+            # File reading
             log = txt.readlines()
             for content in log:
                 # Check if the read line is a comment
